@@ -1,0 +1,390 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100;0,9..144,200;0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,800;0,9..144,900;1,9..144,100;1,9..144,200;1,9..144,300;1,9..144,400;1,9..144,500;1,9..144,600;1,9..144,700;1,9..144,800;1,9..144,900&display=swap');
+
+header{
+    display: flex;
+    align-items: end;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    gap: 82px;
+    list-style: none;
+
+}
+li{
+    color: #2F2F2F;
+font-family: Mulish;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.4px;
+}
+.input-box {
+    position: relative;
+    height: 76px;
+    max-width: 900px;
+    width: 100%;
+    border-radius: 8px;
+
+
+
+
+}
+.button {
+    color: #000;
+    background: lightskyblue;
+}
+
+
+h1{
+    color: #0A0909;
+text-align: center;
+font-family: Mulish;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%
+
+}
+.square{
+    color: #000;
+font-family: Mulish;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; 
+letter-spacing: 1px;
+width: 596px;
+height: 370px;
+flex-shrink: 0;}
+.square{
+background: border-box;
+background: linear-gradient(135deg, rgba(255, 255, 255, 0,1) rgba(255, 255, 255, 0));
+
+    
+}
+p{
+    color: #0A0909;
+text-align: center;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%;
+}
+
+.top{
+    background: #E7E0FB;
+}
+.main__title{
+    color: #000;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+letter-spacing: 0.4px;
+margin-top: 100px;
+margin-left: 320px;
+
+}
+.main__problems{
+    display: flex;
+
+    color: #000;
+font-family: Mulish;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 80px; 
+letter-spacing: 1px;
+width: 596px;
+height: 370px;
+margin-left: 199px;
+margin-bottom: 10px;
+
+text-align: left; 
+display:flex; 
+flex-direction: 
+column; align-items: center"
+
+}
+aside{
+    display: flex;
+    justify-content: right;
+    margin: 146px;
+    color: #000;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.4px;
+margin-top: -200px;
+}
+.mainpic{
+display: flex;
+margin-top: -100px;
+}
+.pictext{
+    color: #000;
+text-align: center;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+
+
+
+
+.coding{
+    color: #000;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.4px;
+}
+
+.hobbiestext{
+ 
+    display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        color: #000;
+    
+    font-family: Fraunces;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    
+    }
+
+    .hobbies{
+        display: flex;
+        justify-content: space-evenly;
+        color: #000;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.4px;
+align-items: center;
+text-align: center;border-radius: 453px;
+background: radial-gradient(50% 50% at 50% 50%, #AA98DD 0%, rgba(184, 169, 225, 0.00) 100%)}
+
+    .newchapter__title{
+        color: #000;
+font-family: Gelasio;
+font-size: 43px;
+font-style: normal;
+font-weight: 700;
+line-height: 140%; 
+    }
+
+    .bucketlist__title{
+        display: flex;
+        justify-content: center;
+        color: #000;
+text-align: center;
+font-family: Gelasio;
+font-size: 43px;
+font-style: normal;
+font-weight: 500;
+line-height: 140%;
+background: #EBDBCC;
+    }
+
+    .bucketlist__description{
+        display: flex;
+        justify-content: center;
+        color: #000;
+text-align: center;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; 
+justify-content: space-around;
+
+    }
+    .camino{
+        color: #000;
+text-align: center;
+font-family: Gelasio;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 37.5px; 
+letter-spacing: 0.4px;
+margin-top: 100px;
+
+    }
+    .camino__description{
+        color: #000;
+text-align: center;
+font-family: Fraunces;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 37.5px; 
+letter-spacing: 0.4px;
+    }
+    .whysantiago{
+        color: #000;
+text-align: center;
+font-family: Mulish;
+font-size: 40px;
+font-style: italic;
+font-weight: 400;
+line-height: 37.5px; 
+letter-spacing: 0.4px;
+    }   
+
+    .motivation__picture{
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+        width: 517px;
+height: 423px;
+display: flex;
+margin-left: 80px;
+    }
+    
+    
+
+    
+    .motivation__description{
+        display: flex;
+        justify-content: right;
+        
+        color: #000;
+    font-family: Fraunces;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+    margin-top: -380px;
+  
+
+    }
+.lazy{
+    color: #000;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 37.5px; 
+letter-spacing: 0.4px;
+margin-left: -600px;
+margin-top: 300px
+}
+.lazy__picture{
+    display: flex;
+        justify-content: right;
+        margin: 146px;
+        color: #000;
+    font-family: Fraunces;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+    margin-top: -300px;
+}
+.travel__picture
+{
+    display: flex;
+    margin-left: 80px;
+}
+.travel__description{
+    display: flex;
+        justify-content: right;
+        margin: 146px;
+        color: #000;
+    font-family: Fraunces;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+    margin-top: -400px;
+
+}
+.wow{
+    color: #000;
+text-align: center;
+font-family: Fraunces;
+font-size: 25px;
+font-style: normal;
+font-weight: 900;
+line-height: 37.5px; 
+letter-spacing: 0.4px;
+}
+.willpower{
+    color: #000;
+text-align: center;
+font-family: Fraunces;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 37.5px; 
+letter-spacing: 0.4px;
+}
+.next{
+    background: #F9F0F9;
+    width: 1440px;
+height: 694px;
+}
+.next__title{
+    color: #000;
+
+font-family: Fraunces;
+font-size: 72px;
+font-style: normal;
+font-weight: 400;
+line-height: 50px; 
+letter-spacing: 7.68px;
+margin-left: -750px;
+
+}
+
+.next__description{
+    color: #000;
+
+font-family: Fraunces;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 50px; 
+letter-spacing: 7.68px;
+margin-right: 80px;
+}
+.foot{
+    color: #000;
+font-family: Mulish;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 37.5px; 
+letter-spacing: 1.5px;
+margin-left: -900px;}
+
+.contacts{
+    color: #000;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+letter-spacing: 0.96px;
+margin-top: -280px;
+}
